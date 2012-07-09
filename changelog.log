@@ -1,0 +1,17 @@
+####0.2####
+- Vartotojai nuo siol saugojami db\adv_users.ini
+- perasyta vartotoju teisiu sistema, nuo siol u teises turintis vartotojas 
+  negales prideti nauju vartotoju. Naujus vartotojus gales pridet tik oepratoriai turintys o teise.
+  Naujus operatorius tegales pridet tik Pagrindinis administratorius
+- Pridetas enemylist(beveik tas pac kaip ir blacklistas)
+- Prideta galimybe, kad po x praskanuotu kartu ir neradus reklamos boto ar viruso vartotojas 
+  itraukiamas i sarasa, kad nebebutu daugiau skanuoajamas
+- Prideta tai kad vartotojas turi virusa, botas nuo siol gales pranesinet ir i kanala
+- Prideta galimybe, kad neskanuotu kanalo op'u/voic'u/halfop'u
+- Pataisyta, kad whoisinant warototjus matydavos 313,401,275 rawai
+- Prideta saugomuju sarasas, ten esantys nickai nebus skanuojami
+- Botas gali turet daugiau nei viena pagrindini administratoriu. sukurti nauja galite su komanda /adv.admin
+- Ir dar keletas smulkiu patobulinima, bei istaisyta daug smulkiu klaideliu tam tarpe tokie:
+  Baninant reklamos bota bei whoisinant userius, kai ju prisikaupe eilej ne vienas
+####0.1 Beta####
+- Pirmas relyzas :)
