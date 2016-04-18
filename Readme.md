@@ -1,3 +1,9 @@
+![GitHub release](https://img.shields.io/github/release/ADVSeeker/ADVSeeker-mIRC.svg?maxAge=2592000) [![License](https://img.shields.io/github/license/ADVSeeker/ADVSeeker-mIRC.svg?maxAge=2592000)](License.txt)
+
+### *Warning: Below all text is in Lithuanian (and is written in that style that Lithuanian grammar nazi really hates)!
+
+---
+
 ADV Seeker MRC 0.2 vartotojo instrukcija
 
     1. Reikalavimai
@@ -135,8 +141,8 @@ su reklameriais (tiesa nepamirekite atsizvelgti i licenzija!). :-)
   6. Kontaktai
 ----------------------------------------------
 
-  WWW: http://www.skycommunity.lt
-  IRC: Vycka_xxx (MRC versija) & MekDrop (TCL versija/duombazes administravimas)
+  **WWW:** http://www.skycommunity.lt<br />
+  **IRC:** Vycka_xxx (MRC versija) & MekDrop (TCL versija/duombazes administravimas)
 
 ----------------------------------------------
   7. Linkejimai
