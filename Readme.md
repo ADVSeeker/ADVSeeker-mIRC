@@ -1,4 +1,6 @@
-![GitHub release](https://img.shields.io/github/release/ADVSeeker/ADVSeeker-mIRC.svg?maxAge=2592000) [![License](https://img.shields.io/github/license/ADVSeeker/ADVSeeker-mIRC.svg?maxAge=2592000)](License.txt)
+[![Download ADV Seeker](https://img.shields.io/sourceforge/dt/advseeker.svg)](https://sourceforge.net/projects/advseeker/files/latest/download) [![License](https://img.shields.io/github/license/ADVSeeker/ADVSeeker-mIRC.svg?maxAge=2592000)](License.txt)
+# ADVSeeker for mIRC
+[![Download ADV Seeker](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/advseeker/files/latest/download)
 
 ### *Warning: Below all text is in Lithuanian (and is written in that style that Lithuanian grammar nazi really hates)!
 
